@@ -385,6 +385,3 @@ curl "http://server/cgi-bin/awk?-f+/www/public/pwn_final.awk"
 4. **La seguridad debe ser en capas**
    - No confíes en una sola protección
 
----
-
-¿Qué parte específica quieres que profundice más? 😊
